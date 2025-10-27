@@ -2,6 +2,9 @@
 
 The code in this toolbox implements ["Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis"](https://ieeexplore.ieee.org/abstract/document/10091146) by <i>J. Sun, X. Xiu, Y. Luo, W. Liu</i>.
 
+![alt text](./framework.png)
+
+
 
 ### Testing
 Directly run demo.m for reproduction.
